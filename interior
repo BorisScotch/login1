@@ -1,0 +1,17 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Documento sin título</title>
+<script>
+if (document.cookie.indexOf("CrewCentreSession=Valid") == -1) {
+  location.href = "file:///D:/BORIS/AREAS/PEDIDOS%20DE%20DISE%C3%91O/web/Untitled-1.html";}
+</script>
+</head>
+
+<body>
+
+hola
+</body>
+</html>
